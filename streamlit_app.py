@@ -6,7 +6,7 @@ st.set_page_config(page_title="거리별 톨만 온도 계산기", layout="cente
 st.markdown(
     """
     <style>
-    .stApp { background-color: #0B0F19; color: #E2E8F0; }
+    .stApp { background-color: #1B0F19; color: #E2E8F0; }
     label, .stRadio p { color: #6366F1 !important; font-weight: bold !important; }
     hr { border: 0; height: 1px; background: linear-gradient(to right, #3B82F6, #8B5CF6, #EC4899); margin: 20px 0; }
     .highlight { color: #F43F5E; font-weight: bold; }
@@ -49,7 +49,7 @@ if answer == "no":
         "배경이 우주 배경복사 온도라면, 상승한 이 온도를 우리는 톨만 온도라고 부릅니다."
     )
     st.write(
-        "추가적으로, 슈바르츠실트 반지름이라는 것은 블랙홀의 사건의 지평성 반지름입니다."
+        "추가적으로, 슈바르츠실트 반지름이라는 것은 블랙홀의 사건의 지평선 반지름입니다."
     )
 
     st.markdown(
