@@ -65,7 +65,7 @@ elif answer == "yes":
     st.write("---")
     # 슈바르츠실트 반지름 입력 (사용자가 값을 넣기 전까지 0으로 설정)
     rs = st.number_input(
-        "슈바르츠실트 반지름은(km)? (10~30 권장) :",
+        "슈바르츠실트 반지름은(km)? (10~40 권장) :",
         min_value=0,
         value=0,
         step=1,
