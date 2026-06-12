@@ -10,7 +10,7 @@ st.markdown(
     label, .stRadio p { color: #6366F1 !important; font-weight: bold !important; }
     hr { border: 0; height: 1px; background: linear-gradient(to right, #3B82F6, #8B5CF6, #EC4899); margin: 20px 0; }
     .highlight { color: #F43F5E; font-weight: bold; }
-    .neon-blue { color: #3B82F6; text-shadow: 0 0 5px #3B82F6; }
+    .neon-blue { color: #3B83F6; text-shadow: 0 0 5px #3B82F6; }
     .neon-purple { color: #A855F7; text-shadow: 0 0 5px #A855F7; }
     </style>
     """,
