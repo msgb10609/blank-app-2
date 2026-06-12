@@ -6,7 +6,7 @@ st.set_page_config(page_title="거리별 톨만 온도 계산기", layout="cente
 st.markdown(
     """
     <style>
-    .stApp { background-color: #1B0F29; color: #E2E8F0; }
+    .stApp { background-color: #0B0F29; color: #E2E8F0; }
     label, .stRadio p { color: #6366F1 !important; font-weight: bold !important; }
     hr { border: 0; height: 1px; background: linear-gradient(to right, #3B82F6, #8B5CF6, #EC4899); margin: 20px 0; }
     .highlight { color: #F43F5E; font-weight: bold; }
